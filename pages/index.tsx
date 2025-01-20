@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex w-full min-h-screen bg-yellow justify-center items-center px-6  sm:px-0">
+    <div className="flex w-full min-h-screen bg-yellow justify-center items-center px-6  sm:px-0 tracking-normal">
       <div
         className="flex flex-col w-[384px] bg-white rounded-[20px] p-6 border border-gray-950 gap-y-6"
         style={{ boxShadow: "8px 8px 0px rgb(0, 0, 0)" }}
