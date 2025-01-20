@@ -29,7 +29,7 @@ export default function Home() {
           <p className="text-[12px] sm:text-[14px]">Published 21 Dec 2023</p>
 
           {/* Title */}
-          <h1 className="text-[20px] sm:text-[24px] font-[800] text-gray-950">
+          <h1 className="text-[20px] sm:text-[24px] font-[800] text-gray-950 cursor-pointer hover:text-yellow">
             HTML & CSS foundations
           </h1>
 
